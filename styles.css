@@ -37,7 +37,7 @@ body {
     align-items: center;
     justify-content: space-between;
     background-color: white;
-    --url-menu: url("/images/menu.svg");
+    --url-menu: url("images/menu.svg");
     --opacity-menu: 0;
     --transform-menu: translateY(-120%);
     --pointer-menu: none;
@@ -638,7 +638,6 @@ margin-top: 100px;
         top: 0;
         color: black;
         position: absolute;
-        background-image: url(/images/vertilux.jpg);
         background-position: center;
         backdrop-filter: blur(5px);
         border-radius: 15px;
