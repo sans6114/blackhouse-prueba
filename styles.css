@@ -15,7 +15,7 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#ffffff",GradientType=1); 
 }
 
-.container {
+.containers {
     max-width: 1200px;
     width: 90%;
     margin-inline: auto;
@@ -41,7 +41,6 @@ body {
     --opacity-menu: 0;
     --transform-menu: translateY(-120%);
     --pointer-menu: none;
-    padding-bottom: 20px;
 }
 
 
@@ -290,7 +289,7 @@ margin-top: 100px;
     gap: 15px;
 }
 
-.cardt {
+.cardt  {
     width: 300px;
     height: 400px;
     border-radius: 20px;
